@@ -1,2 +1,2 @@
-# v5-upgraded
-mindustry v5 in v6
+# v5dustry
+mindustry v5 features in v6
