@@ -37,5 +37,11 @@ pyra = extend(StatusEffect, "pyra", {
     }
 });
 
+Bullets.basicFlame.shootEffect = Fx.none;
+Bullets.pyraFlame.shootEffect = Fx.none;
+Bullets.basicFlame.hitEffect = Fx.none;
+Bullets.pyraFlame.hitEffect = Fx.none;
+Bullets.basicFlame.smokeEffect = Fx.none;
+Bullets.pyraFlame.smokeEffect = Fx.none;
 Bullets.basicFlame.status = basic;
 Bullets.pyraFlame.status = pyra;
