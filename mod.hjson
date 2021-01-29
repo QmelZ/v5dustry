@@ -1,0 +1,8 @@
+{
+    name: "v5dustry",
+    displayName: "v5dustry",
+    description: "adds v5 features",
+    author: "QmelZ",
+    version: 0.1,
+    minGameVersion: 121
+}
